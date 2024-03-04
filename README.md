@@ -5,11 +5,13 @@ W. Tu, S. Zhou, X. Liu, C. Ge, Z. Cai, and Y. Liu.
 ## Citation & License
 If you use this code for your research, please cite our paper.
 ```
-@inproceedings{DFCN2021,
-  title={Deep Fusion Clustering Network},
-  author={Wenxuan Tu and Sihang Zhou and Xinwang Liu and Xifeng Guo and Zhiping Cai and En Zhu and Jieren Cheng},
-  booktitle={Proceedings of The Thirty-Fifth AAAI Conference on Artificial Intelligence},
-  pages={9978-9987},
-  year={2021}
+@article{chen2014unified,
+  title={2023HCHSM},
+  author={Wenxuan Tu and Sihang Zhou and Xinwang Liu and Chunpeng Ge and Zhiping Cai and Yue Liu},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  volume={},
+  number={},
+  pages={1-14},
+  year={2023},
 }
 ```
