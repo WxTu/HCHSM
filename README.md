@@ -1,6 +1,8 @@
 # HCHSM
 IEEE TNNLS 2023-Hierarchically Contrastive Hard Sample Mining for Graph Self-supervised Pre-training
 
+The complete source code will be released soon!
+
 ## Citation & License
 If you use this code for your research, please cite our paper.
 ```
